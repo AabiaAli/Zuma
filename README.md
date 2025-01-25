@@ -31,7 +31,7 @@ This project implements a recreation of the classic Zuma game in Assembly langua
 
 ### Game Over:
 •	The game ends if any ball reaches the end of the path.
-## Screenshots
+## Graphics
 The game displays text-based visuals using simple characters and ASCII art for paths, tunnels, and game over/winning messages or any other displays.
 #### Example:
 ##### Level 1
