@@ -50,5 +50,5 @@ The game displays text-based visuals using simple characters and ASCII art for p
 
 Compile using MASM615 or any other compatible compiler.
 ## License
-This project is open-source and free to use. Feel free to modify and distribute the code as you wish.
+Licensed under [MIT](https://choosealicense.com/licenses/mit/), this project is open-source and free to use. Feel free to modify and distribute the code as you wish.
 
