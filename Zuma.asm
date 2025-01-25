@@ -202,7 +202,7 @@ lineCheck db 0
 HighScores db "HIGHSCORES:",13,10,0
 
 ;  FileHandling
-filename db 'lol.txt', 0 
+filename db 'scores.txt', 0 
 buffer db 90 dup (?) ; 3 names (10 bytes each), 3 scores (2 bytes each), 3 levels (1 byte each) 
 filehandle DWORD ? 
 bytesRead DWORD ?
